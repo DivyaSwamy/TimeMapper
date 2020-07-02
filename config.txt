@@ -1,0 +1,5 @@
+database-1.ct804m0yyi1i.us-west-2.rds.amazonaws.com/
+5432
+postgres
+postgres
+getintoaws
