@@ -20,5 +20,5 @@ All this data was then used to generate the **contour maps** that were the outpu
 Python was used for development. Flask & AWS for deployment.
 
 ## Slides - 
-(Project Demo)[timemapper_demo.pdf]
+[Project Demo](timemapper_demo.pdf)
 
